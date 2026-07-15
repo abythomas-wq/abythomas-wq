@@ -10,6 +10,8 @@ My portfolio demonstrates end-to-end analytics projects using SQL, Python, Excel
 
 I'm currently seeking Business Analyst and Data Analyst opportunities.
 
+Here's the link to my CV: https://github.com/abythomas-wq/abythomas-wq/blob/main/Aby_Thomas_Business_Analyst.pdf
+
 
 ## Technical Competencies
 
