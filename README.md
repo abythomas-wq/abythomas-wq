@@ -153,7 +153,7 @@ Business Impact
 
 The project demonstrates how business intelligence can provide operational visibility across the fulfilment process. By consolidating data from multiple business functions into a single analytical framework, stakeholders can monitor key performance indicators, identify growth opportunities, improve operational efficiency, and support evidence-based decision-making.
 
-**Repository:** [SwiftFulfil Operations Analytics](https://github.com/abythomas-wq/swiftfulfil-operations-analytics)
+**Repository:** [Harbour & Co. Retail Operations Analytics](https://github.com/abythomas-wq/harbour-co-retail-operations-analytics)
 
 
 
