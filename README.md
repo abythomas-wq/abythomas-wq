@@ -104,34 +104,35 @@ Although based on publicly available race data, the analytical framework demonst
 **Repository:** [Formula 1 Performance Analytics](https://github.com/abythomas-wq/Formula1-Performance-Analytics)
 
 
-  ## Swiftfulfill Project
+  ## Harbour & Co. Retail Operations Analytics
 
-An end-to-end operations analytics project designed to demonstrate how data can support inventory management, order fulfilment, customer analysis, and commercial decision-making within a logistics and fulfilment environment.
+An end-to-end retail business analysis and operations analytics project that applies relational database design, SQL, data modelling, and business intelligence techniques to evaluate the operational performance of a premium UK omnichannel retailer.
 
-Modern fulfilment businesses generate large volumes of operational data across customers, orders, inventory, shipments, suppliers, and employees. Transforming this data into meaningful insights enables organisations to improve operational efficiency, reduce costs, enhance customer experience, and make evidence-based business decisions.
+Modern retailers operate across complex ecosystems involving stores, e-commerce, customers, suppliers, inventory networks and fulfilment operations. Effective decision-making requires organisations to understand how these processes interact, identify operational challenges and use data to improve efficiency and customer outcomes. This project simulates the role of a Business Analyst supporting retail transformation by analysing operational data to identify performance drivers, process improvement opportunities and strategic insights.
 
-This project simulates the role of a Business Analyst supporting a fulfilment operation by designing a relational database and analysing business performance using SQL, Python and Excel.
+Using a structured relational database model, the project examines key retail functions including customer activity, product performance, supplier relationships, inventory management, warehouse operations, order fulfilment and shipment performance. The objective is to demonstrate how business analysis and data analytics can support operational improvement and evidence-based decision-making within a retail environment.
 
 Project Objective:
 
-To demonstrate how operational data can be transformed into actionable business insights that support decision-making across sales performance, customer behaviour, inventory management, supplier performance, and fulfilment operations.
+To demonstrate how business analysis and analytics can support retail transformation by converting operational data into actionable insights that improve efficiency, customer experience and business performance.
 
 Business Scenario:
 
-SwiftFulfil is experiencing continued business growth, resulting in increased order volumes and operational complexity. Senior management requires greater visibility into operational performance to support strategic planning and day-to-day decision-making.
+Following continued growth across physical stores and digital channels, Harbour & Co. Retail aims to improve operational visibility and strengthen its omnichannel capabilities.
 
-Acting as a Business Analyst, the objective is to consolidate operational data into a structured analytical model that enables stakeholders to monitor performance, identify inefficiencies, and uncover opportunities for improvement.
+Acting as a Business Analyst, the objective is to analyse retail operations across sales, inventory, supply chain and fulfilment processes to identify performance gaps, define key performance indicators and recommend opportunities for improving operational efficiency.
 
 Business Questions:
 
-1. Which products generate the highest revenue and profit?
-2. Which customer segments contribute most to sales?
-3. How have revenue and order volumes changed over time?
-4. Which cities or regions generate the strongest commercial performance?
-5. Which suppliers support the highest-performing product categories?
-6. Which products should be prioritised based on sales performance?
-7. How effectively are customer orders being fulfilled?
-8. What operational trends should management monitor to improve efficiency?
+1. How effectively is inventory being managed across stores and warehouses?
+2. Which products and categories contribute most significantly to business performance?
+3. Which suppliers demonstrate the strongest performance in reliability and fulfilment?
+4. Where are operational bottlenecks occurring across the order fulfilment process?
+5. How efficiently are customer orders being processed and delivered?
+6. Which locations demonstrate stronger or weaker operational performance?
+7. What factors influence customer purchasing behaviour and order patterns?
+8. Which KPIs should management monitor to improve retail performance?
+9. How can data-driven insights support future operational and commercial decisions?
 
 Project Limitations:
 
