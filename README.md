@@ -106,7 +106,7 @@ Although based on publicly available race data, the analytical framework demonst
 
   ## Harbour & Co. Commercial Performacne Analytics
 
-An end-to-end retail business analysis and operations analytics project that applies relational database design, SQL, data modelling, and business intelligence techniques to evaluate the operational performance of a premium UK omnichannel retailer.
+An end-to-end commercial performance analysis and operations analytics project that applies relational database design, SQL, data modelling, and business intelligence techniques to evaluate the operational performance of a premium UK omnichannel retailer.
 
 Modern retailers operate across complex ecosystems involving stores, e-commerce, customers, suppliers, inventory networks and fulfilment operations. Effective decision-making requires organisations to understand how these processes interact, identify operational challenges and use data to improve efficiency and customer outcomes. This project simulates the role of a Business Analyst supporting retail transformation by analysing operational data to identify performance drivers, process improvement opportunities and strategic insights.
 
