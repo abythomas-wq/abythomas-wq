@@ -104,9 +104,9 @@ Although based on publicly available race data, the analytical framework demonst
 **Repository:** [Formula 1 Performance Analytics](https://github.com/abythomas-wq/Formula1-Performance-Analytics)
 
 
-  ## Harbour & Co. Commercial Performacne Analytics
+  ## Harbour & Co. Retail Operations Analytics
 
-An end-to-end commercial performance analysis and operations analytics project that applies relational database design, SQL, data modelling, and business intelligence techniques to evaluate the operational performance of a premium UK omnichannel retailer.
+An end-to-end retail operations analysis and operations analytics project that applies relational database design, SQL, data modelling, and business intelligence techniques to evaluate the operational performance of a premium UK omnichannel retailer.
 
 Modern retailers operate across complex ecosystems involving stores, e-commerce, customers, suppliers, inventory networks and fulfilment operations. Effective decision-making requires organisations to understand how these processes interact, identify operational challenges and use data to improve efficiency and customer outcomes. This project simulates the role of a Business Analyst supporting retail transformation by analysing operational data to identify performance drivers, process improvement opportunities and strategic insights.
 
@@ -153,7 +153,7 @@ Business Impact
 
 The project demonstrates how business intelligence can provide operational visibility across the fulfilment process. By consolidating data from multiple business functions into a single analytical framework, stakeholders can monitor key performance indicators, identify growth opportunities, improve operational efficiency, and support evidence-based decision-making.
 
-**Repository:** [Harbour & Co. Commercial Performance Analytics](https://github.com/abythomas-wq/harbour-co-retail-operations-analytics)
+**Repository:** [Harbour & Co. Retail Operations Analytics](https://github.com/abythomas-wq/harbour-co-retail-operations-analytics)
 
 
 
