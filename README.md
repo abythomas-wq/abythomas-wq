@@ -104,7 +104,7 @@ Although based on publicly available race data, the analytical framework demonst
 **Repository:** [Formula 1 Performance Analytics](https://github.com/abythomas-wq/Formula1-Performance-Analytics)
 
 
-  ## Harbour & Co. Retail Operations Analytics
+  ## Harbour & Co. Commercial Performacne Analytics
 
 An end-to-end retail business analysis and operations analytics project that applies relational database design, SQL, data modelling, and business intelligence techniques to evaluate the operational performance of a premium UK omnichannel retailer.
 
